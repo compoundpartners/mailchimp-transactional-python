@@ -13,7 +13,7 @@
 
 from setuptools import setup, find_packages  # noqa: H301
 
-NAME = "mailchimp_transactional"
+NAME = "mailchimp-transactional-python"
 VERSION = "1.0.50"
 # To install the library, run the following
 #
